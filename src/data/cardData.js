@@ -1,0 +1,32 @@
+export const CARD_DATA = [
+  {
+    title: 'с фуа-гра',
+    weight: '0,5',
+    portionNumber: 10,
+    mouseNumber: 'мышь',
+    description: 'Печень утки разварная с артишоками.',
+    emptyText: 'Печалька, с фуа-гра закончился.',
+    empty: false,
+    satisfied: false,
+  },
+  {
+    title: 'с рыбой',
+    weight: '2',
+    portionNumber: 40,
+    mouseNumber: '2 мыши',
+    description: 'Головы щучьи с чесноком да свежайшая сёмгушка.',
+    emptyText: 'Печалька, с рыбой закончился.',
+    empty: false,
+    satisfied: false,
+  },
+  {
+    title: 'с курой',
+    weight: '5',
+    portionNumber: 100,
+    mouseNumber: '5 мышей',
+    description: 'Филе из цыплят с трюфелями в бульоне.',
+    emptyText: 'Печалька, с курой закончился.',
+    empty: false,
+    satisfied: true,
+  },
+]

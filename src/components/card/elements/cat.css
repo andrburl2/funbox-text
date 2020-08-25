@@ -1,0 +1,13 @@
+.card__cat {
+  width: 270px;
+  height: 270px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  object-fit: none;
+  object-position: left -25px bottom -90px;
+}
+
+.card__cat_disabled {
+  opacity: .5;
+}

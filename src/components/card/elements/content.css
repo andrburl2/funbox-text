@@ -1,0 +1,75 @@
+.card__content {
+  min-width: 320px;
+  height: 480px;
+  margin: 0 0 15px;
+  padding: 25px 45px 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f2f2;
+  border: 4px solid #1698d9;
+  border-radius: 10px;
+  box-sizing: border-box;
+  position: relative;
+  overflow: hidden;
+  clip-path: polygon(40px 0, 100% 0, 100% 100%, 0% 100%, 0% 40px);
+  cursor: pointer;
+}
+
+.card__content:hover {
+  border: 4px solid #2ea8e6;
+}
+
+.card__content:hover .card__corner {
+  background-color: #2ea8e6;
+}
+
+.card__content:hover .card__circle {
+  background-color: #2ea8e6;
+}
+
+.card__content_selected {
+  border: 4px solid #d91667;
+}
+
+.card__content_selected:hover {
+  border: 4px solid #e62e7a;
+}
+
+.card__content_selected:hover .card__corner {
+  background-color: #e62e7a;
+}
+
+.card__content_selected:hover .card__circle {
+  background-color: #e62e7a;
+}
+
+.card__content_disabled {
+  border: 4px solid #b3b3b3;
+  cursor: auto;
+}
+
+.card__content_disabled:hover {
+  border: 4px solid #b3b3b3;
+}
+
+.card__content_disabled:hover .card__corner{
+  background-color: #b3b3b3;
+}
+
+.card__content_disabled:hover .card__circle {
+  background-color: #b3b3b3;
+}
+
+@media screen and (max-width: 700px) {
+  .card__content {
+    min-width: 0;
+    max-width: 300px;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .card__content {
+    padding: 25px 35px 0;
+  }
+}

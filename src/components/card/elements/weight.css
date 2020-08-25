@@ -1,0 +1,12 @@
+.card__weight {
+  margin: 0;
+  font-size: 42px;
+  font-weight: normal;
+  line-height: 42px;
+  color: #fff;
+}
+
+.card__weight_font_small {
+  font-size: 21px;
+  line-height: 21px;
+}

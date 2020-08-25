@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from '../card';
-import { CARD_DATA } from '../../data/cardData';
+import { CARD_DATA } from '../../data/card-data';
 
 import './content.css';
 

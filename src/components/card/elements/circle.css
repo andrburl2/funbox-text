@@ -1,0 +1,22 @@
+.card__circle {
+  width: 80px;
+  height: 80px;
+  padding: 16px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #1698d9;
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  z-index: 100;
+}
+
+.card__circle_selected {
+  background-color: #d91667;
+}
+
+.card__circle_disabled {
+  background-color: #b3b3b3;
+}

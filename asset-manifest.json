@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/funbox-test/static/css/main.b03bdd16.chunk.css",
-    "main.js": "/funbox-test/static/js/main.f468363d.chunk.js",
-    "main.js.map": "/funbox-test/static/js/main.f468363d.chunk.js.map",
+    "main.css": "/funbox-test/static/css/main.14d20a35.chunk.css",
+    "main.js": "/funbox-test/static/js/main.49347a13.chunk.js",
+    "main.js.map": "/funbox-test/static/js/main.49347a13.chunk.js.map",
     "runtime-main.js": "/funbox-test/static/js/runtime-main.59997f6a.js",
     "runtime-main.js.map": "/funbox-test/static/js/runtime-main.59997f6a.js.map",
     "static/js/2.6b5e5bdd.chunk.js": "/funbox-test/static/js/2.6b5e5bdd.chunk.js",
     "static/js/2.6b5e5bdd.chunk.js.map": "/funbox-test/static/js/2.6b5e5bdd.chunk.js.map",
     "index.html": "/funbox-test/index.html",
-    "precache-manifest.06490efcf60f9836285c177c594e6763.js": "/funbox-test/precache-manifest.06490efcf60f9836285c177c594e6763.js",
+    "precache-manifest.5a6920331c33748cb5b44109e11cffd6.js": "/funbox-test/precache-manifest.5a6920331c33748cb5b44109e11cffd6.js",
     "service-worker.js": "/funbox-test/service-worker.js",
-    "static/css/main.b03bdd16.chunk.css.map": "/funbox-test/static/css/main.b03bdd16.chunk.css.map",
+    "static/css/main.14d20a35.chunk.css.map": "/funbox-test/static/css/main.14d20a35.chunk.css.map",
     "static/js/2.6b5e5bdd.chunk.js.LICENSE.txt": "/funbox-test/static/js/2.6b5e5bdd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/funbox-test/static/media/pattern.c7d794db.jpg",
     "static/media/cat.png": "/funbox-test/static/media/cat.f8cb1cae.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.59997f6a.js",
     "static/js/2.6b5e5bdd.chunk.js",
-    "static/css/main.b03bdd16.chunk.css",
-    "static/js/main.f468363d.chunk.js"
+    "static/css/main.14d20a35.chunk.css",
+    "static/js/main.49347a13.chunk.js"
   ]
 }

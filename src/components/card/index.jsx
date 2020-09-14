@@ -31,7 +31,7 @@ export class Card extends React.Component {
           <img src={catImg} alt="Милый котик" className={empty ? 'card__cat card__cat_disabled' : 'card__cat'}/>
         </div>
 
-        <p className={empty ? 'card__text_hidden' : 'card__text card__text_value_buy'}>Чего сидишь? Порадуй котэ, <button className="card__button" onClick={this.selectCard}>купи</button>.</p>
+        <p className={empty ? 'card__text_hidden' : 'card__text card__text_value_buy'}>Чего сидишь? Порадуй котэ, <button className="card__button" onClick={(e) => this.selectCard(e)}>купи</button>.</p>
         <p className="card__text card__text_value_info card__text_hidden">{description}</p>
         <p className={empty ? 'card__text card__text_value_empty' : 'card__text_hidden'}>{emptyText}</p>
       </div>
@@ -45,7 +45,9 @@ export class Card extends React.Component {
       return;
     }
 
-    this.returnDescription(event);
+    if (!event.target.classList.contains('card__button')) {
+      this.returnDescription(event);
+    }
 
     card.querySelector('.card__content').classList.toggle('card__content_selected');
     card.querySelector('.card__corner').classList.toggle('card__corner_selected');

@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/funbox-test/static/css/main.14d20a35.chunk.css",
-    "main.js": "/funbox-test/static/js/main.7aa3e8b1.chunk.js",
-    "main.js.map": "/funbox-test/static/js/main.7aa3e8b1.chunk.js.map",
-    "runtime-main.js": "/funbox-test/static/js/runtime-main.59997f6a.js",
-    "runtime-main.js.map": "/funbox-test/static/js/runtime-main.59997f6a.js.map",
-    "static/js/2.6b5e5bdd.chunk.js": "/funbox-test/static/js/2.6b5e5bdd.chunk.js",
-    "static/js/2.6b5e5bdd.chunk.js.map": "/funbox-test/static/js/2.6b5e5bdd.chunk.js.map",
-    "index.html": "/funbox-test/index.html",
-    "precache-manifest.4f4cf969e3e1164df5d38ad6c0182b5c.js": "/funbox-test/precache-manifest.4f4cf969e3e1164df5d38ad6c0182b5c.js",
-    "service-worker.js": "/funbox-test/service-worker.js",
-    "static/css/main.14d20a35.chunk.css.map": "/funbox-test/static/css/main.14d20a35.chunk.css.map",
-    "static/js/2.6b5e5bdd.chunk.js.LICENSE.txt": "/funbox-test/static/js/2.6b5e5bdd.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/funbox-test/static/media/pattern.c7d794db.jpg",
-    "static/media/cat.png": "/funbox-test/static/media/cat.f8cb1cae.png"
+    "main.css": "/yummy/static/css/main.03a53c6d.chunk.css",
+    "main.js": "/yummy/static/js/main.34aa014a.chunk.js",
+    "main.js.map": "/yummy/static/js/main.34aa014a.chunk.js.map",
+    "runtime-main.js": "/yummy/static/js/runtime-main.2ebf2f44.js",
+    "runtime-main.js.map": "/yummy/static/js/runtime-main.2ebf2f44.js.map",
+    "static/js/2.8ab00eb3.chunk.js": "/yummy/static/js/2.8ab00eb3.chunk.js",
+    "static/js/2.8ab00eb3.chunk.js.map": "/yummy/static/js/2.8ab00eb3.chunk.js.map",
+    "index.html": "/yummy/index.html",
+    "precache-manifest.d91ba190d229184a88879e4dd0762956.js": "/yummy/precache-manifest.d91ba190d229184a88879e4dd0762956.js",
+    "service-worker.js": "/yummy/service-worker.js",
+    "static/css/main.03a53c6d.chunk.css.map": "/yummy/static/css/main.03a53c6d.chunk.css.map",
+    "static/js/2.8ab00eb3.chunk.js.LICENSE.txt": "/yummy/static/js/2.8ab00eb3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/yummy/static/media/pattern.c7d794db.jpg",
+    "static/media/cat.png": "/yummy/static/media/cat.f8cb1cae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.59997f6a.js",
-    "static/js/2.6b5e5bdd.chunk.js",
-    "static/css/main.14d20a35.chunk.css",
-    "static/js/main.7aa3e8b1.chunk.js"
+    "static/js/runtime-main.2ebf2f44.js",
+    "static/js/2.8ab00eb3.chunk.js",
+    "static/css/main.03a53c6d.chunk.css",
+    "static/js/main.34aa014a.chunk.js"
   ]
 }
